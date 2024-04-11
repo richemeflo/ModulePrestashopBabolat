@@ -13,7 +13,7 @@ Prérequis :
 	- avoir un compte administrateur Prestashop
 
 Installation
-	1. Ouvrir votre compte administrateur prestashop
+	1. Ouvrir votre compte administrateur prestashop (disponible ici : https://github.com/richemeflo/ModulePrestashopBabolat)
 	2. Aller via le menu à gauche dans l'onglet Modules - Gestionnaire de modules
 	3. En haut à droite de la page vous trouverez normalement le bouton bleu "Installer un module", cliquez dessus
 	4. Glisser votre fichier zip "suggestionproduit.zip"
