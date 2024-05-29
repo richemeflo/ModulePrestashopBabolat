@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>suggestionproduit</name>
+	<displayName><![CDATA[suggestionproduit]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Suggère des produits selon les réponses aux questions posées.]]></description>
+	<author><![CDATA[FrenchPadelShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
